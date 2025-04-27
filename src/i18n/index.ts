@@ -16,8 +16,9 @@ i18n
     },
     fallbackLng: 'en',
     detection: {
-      order: ['navigator', 'htmlTag', 'path', 'subdomain'],
+      order: ['localStorage', 'navigator'],
       lookupFromPathIndex: 0,
+      lookupLocalStorage: 'banks-directory-i18nextLng',
       checkWhitelist: true,
       caches: ['localStorage'],
       htmlTag: document.documentElement,
